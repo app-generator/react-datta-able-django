@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.2] 2025-04-02
+### Changes
+
+- Update RM Links for [App Generator](https://app-generator.dev/) Service
+  - 👉 [React Datta Able Django](https://app-generator.dev/product/datta-able/api-django/react/) - `Product Page`
+  - 👉 [React Datta Able Django Documentation](https://app-generator.dev/docs/products/react/datta-able-django/index.html) - `Complete Information` and Support Links
+    - [Getting Started with Django](https://app-generator.dev/docs/technologies/django/index.html) - a `comprehensive tutorial`
+
 ## [1.0.1] 2023-06-24
 ### Changes
 
